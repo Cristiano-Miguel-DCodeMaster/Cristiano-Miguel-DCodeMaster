@@ -2,12 +2,19 @@ Hello, I'm <Cristiano Miguel DCode Master/>!
 
 💻 As a passionate junior web developer, my goal is to become a versatile:<br>
 1)full-stack web developer;
+<br>
 2)software engineer;
+<br>
 3)An AI expert;
+<br>
 4)And a cybersecurity specialist. 
+<br>
 I thrive on challenges and enjoy exploring the ever-evolving world of technology.
+<br>
 🌐 With a solid getting foundation in web development, I am continuously expanding my knowledge and honing my skills in both front-end and back-end development. 
+<br>
 I strive to create user-friendly, visually appealing websites and web applications. 
+<br>
 I am proficient in HTML, CSS, and JavaScript,php,MYsql, and I am eager to learn new frameworks and technologies to enhance my development capabilities.
 
 📚 In my journey towards becoming a full-stack web developer, I am actively engaged in expanding my knowledge of server-side programming, databases, and back-end frameworks.
