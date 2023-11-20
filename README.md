@@ -1,6 +1,6 @@
 Hello, I'm <Cristiano Miguel DCode Master/>!
 
-💻 As a passionate junior web developer, my goal is to become a versatile:
+💻 As a passionate junior web developer, my goal is to become a versatile:<br>
 1)full-stack web developer;
 2)software engineer;
 3)An AI expert;
